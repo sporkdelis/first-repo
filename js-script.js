@@ -1,2 +1,1 @@
-
-
+/* my first javascript code practice */
