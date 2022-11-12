@@ -3,11 +3,15 @@
 body {
   background-color: rgb(237, 235, 166);
   font-family: "Courier New", monospace; 
-};
+}
 
 
 div {
   background-color: blue;
-};
+}
 
-div.headline {  background-color: dodgerblue;  color: white;  font-family: 'Special Elite', "Courier New", monospace;};
+div.headline {  
+    background-color: dodgerblue;  
+    color: white;  
+    font-family: 'Special Elite', "Courier New", monospace;
+    }
