@@ -33,4 +33,9 @@ body {
 .dog-list th {
   color: white;
   padding: 5px;
+  }
+  
+  .doglist td {
+    background-color: beige;
+    margin: 5px;
   }  
