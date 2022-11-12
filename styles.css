@@ -11,3 +11,15 @@ body {
     color: white;  
     font-family: 'Special Elite', "Courier New", monospace;
     }
+    
+.summary {
+  background-color: tomato;
+  }   
+  
+.list {
+  background-color: aquamarine; 
+  }  
+  
+.table {
+  background-color: CadetBlueb
+  }  
