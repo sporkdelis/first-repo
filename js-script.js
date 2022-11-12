@@ -7,7 +7,7 @@ document.getElementById("jshit").style.color = "white";
 
 /* create Ball object*/
 
-function Ball (x,y){
+/*function Ball (x,y){
   this.x = x;
   this.y = y;
   };
@@ -27,14 +27,15 @@ Ball.prototype.bounce = function () {
   x = i;
   }
   };
-  
+  */
   /* set up draw function to draw the ball where the user clicks within canvas*/
   
-  draw(){
+  /*draw(){
   document.getElementById("canvas").onclick = function(){
       var ball = new Ball;
       ball.draw(0,mouseY);
       
    }
   };
+  */
   
