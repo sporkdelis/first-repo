@@ -28,6 +28,8 @@ body {
   width: 30%;
   float: right;
   position: relative;
+  top: 20%;
+  right: 10%;
   }  
   
 .dog-list {
