@@ -27,7 +27,7 @@ body {
   background-color: aquamarine; 
   width: 30%;
   float: right;
-  position: relative;
+  position: absolute;
   top: 20%;
   right: 10%;
   }  
