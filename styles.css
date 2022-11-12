@@ -4,7 +4,8 @@ body {
   background-color: rgb(237, 235, 166);
 };
 
-.header {
+
+div .header {
   background-color: dodgerblue;
   color: white;
   font-family: 'Special Elite', "Courier", monospace;
