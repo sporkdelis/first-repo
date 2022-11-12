@@ -26,6 +26,7 @@ body {
   background-color: aquamarine; 
   width: 30%;
   float: right;
+  clear: right;
   }  
   
 .dog-list {
