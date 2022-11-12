@@ -2,13 +2,13 @@
 
 body {
   background-color: Khaki;
+  font-family: 'Special Elite', "Courier New", monospace;
 }
 
 
 .headline {  
     background-color: powderblue;  
     color: white;  
-    font-family: 'Special Elite', "Courier New", monospace;
     }
     
 .summary {
