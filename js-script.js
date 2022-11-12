@@ -1,7 +1,7 @@
 /* my first javascript code practice   */
 
-//document.getElementById("jshit").style.backgroundColor = "navy";
-//document.getElementById("jshit").style.color = "white";
+document.getElementById("jshit").style.backgroundColor = "navy";
+document.getElementById("jshit").style.color = "white";
 
 /* use the canvas div as the holding container for animations */
 
@@ -31,9 +31,10 @@ Ball.prototype.bounce = function () {
   /* set up draw function to draw the ball where the user clicks within canvas*/
   
   draw(){
-  document.getElementById ("canvas").onclick = function(){
+  document.getElementById("canvas").onclick = function(){
       var ball = new Ball;
       ball.draw(0,mouseY);
+      
    }
   };
   
