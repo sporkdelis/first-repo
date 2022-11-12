@@ -1,6 +1,7 @@
 /* here's some styles for the index I haven't written yet */
 
 body {
+  margins: 10%;
   background-color: Khaki;
   font-family: 'Special Elite', "Courier New", monospace;
 }
@@ -8,7 +9,7 @@ body {
 
 .headline {  
     background-color: powderblue;  
-    margin:5px;
+    margins:5px;
     float:left;
     height: 80px;
     width: 75%;
@@ -48,6 +49,6 @@ body {
   
   td {
     background-color: beige;
-    margin: 5px;
+    margins: 5px;
     padding: 5px;
   }  
