@@ -11,7 +11,7 @@ body {
     background-color: powderblue;  
     float:left;
     /*height: 80px;*/
-    width: 75%;
+    width: 85%;
     text-align:justified;
     color: white;  
     font-family: 'Righteous', sans-serif; 
@@ -52,3 +52,7 @@ body {
     margin: 5px, 5px, 5px, 5px;
     padding: 5px;
   }  
+  
+  .js-shit {
+    background-color: beige;
+    }
