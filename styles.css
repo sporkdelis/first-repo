@@ -28,6 +28,8 @@ body {
   
 .dog-list {
   background-color: CadetBlue;
+  display: flex;
+  align-items: center; 
   }  
   
  .doglist table {
