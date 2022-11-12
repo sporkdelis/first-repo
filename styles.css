@@ -7,6 +7,6 @@ body {
 .header {
   background-color: rgb(245, 88, 151);
   text-color: white;
-  @font-face: 
+  font-family: 'Special Elite', "Courier", monospace;
 };
 
