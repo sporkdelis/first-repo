@@ -10,11 +10,12 @@ body {
 .headline {  
     background-color: powderblue;  
     float:left;
-    height: 80px;
+    /*height: 80px;*/
     width: 75%;
     text-align:center;
     color: white;  
     font-family: 'Righteous', sans-serif; 
+    
     }
     
 .summary {
