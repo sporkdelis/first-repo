@@ -5,7 +5,9 @@ document.getElementById ("jshit") .style .color = "white";
 
 /* use the canvas div as the holding container for animations */
 
-document.getElementById ("canvas");
+document.getElementById ("canvas").onclick = function(){
+  
+  };
 
 var Ball = function(x,y){
   this.x = x;
@@ -25,5 +27,6 @@ Ball.prototype.bounce = function () {
       }
     }
   x = x + i;
-  y = y + i;
+  y = mouseY;
   };
+  
