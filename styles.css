@@ -4,7 +4,7 @@ body {
   background-color: rgb(237, 235, 166);
 };
 
-.header {
+#header {
   background-color: rgb(245, 88, 151);
   text-color: white;
   font-family: 'Special Elite', "Courier", monospace;
