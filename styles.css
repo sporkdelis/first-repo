@@ -8,6 +8,8 @@ body {
 
 .headline {  
     background-color: powderblue;  
+    height: 50px;
+    width: 65%;
     color: white;  
     font-family: 'Righteous', sans-serif; 
     }
