@@ -6,12 +6,8 @@ body {
 }
 
 
-div {
-  background-color: blue;
-}
-
-div.headline {  
-    background-color: dodgerblue;  
+.headline {  
+    background-color: powderblue;  
     color: white;  
     font-family: 'Special Elite', "Courier New", monospace;
     }
