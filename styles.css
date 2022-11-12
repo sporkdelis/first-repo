@@ -29,7 +29,7 @@ body {
   background-color: CadetBlue;
   }  
   
-th.dog-list {
+th .dog-list {
   color: white;
   bottom-border: solid;
   }  
