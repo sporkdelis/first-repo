@@ -19,5 +19,11 @@ Ball.prototype.draw = function (){
   
 Ball.prototype.bounce = function () {
   for(i = 0; i > 375; i++);
-  
-  }
+  if(i === 375) {
+    while( i < 25) {
+      i--;
+      }
+    }
+  x = x + i;
+  y = y + i;
+  };
