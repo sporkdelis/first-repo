@@ -9,6 +9,7 @@ body {
 .headline {  
     background-color: powderblue;  
     color: white;  
+    font-family: 'Righteous', sans-serif; 
     }
     
 .summary {
