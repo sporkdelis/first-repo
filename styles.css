@@ -56,3 +56,9 @@ body {
   .js-shit {
     background-color: beige;
     }
+    
+    .canvas {
+      background-color: white;
+      height: 400px;
+      width: 400px;
+    }
