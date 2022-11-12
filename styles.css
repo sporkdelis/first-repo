@@ -20,13 +20,14 @@ body {
 .summary {
   background-color: tomato;
   width: 35%;
+  clear: right;
   }   
   
 .list {
   background-color: aquamarine; 
   width: 30%;
   float: right;
-  clear: right;
+  
   }  
   
 .dog-list {
