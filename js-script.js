@@ -1,3 +1,3 @@
 /* my first javascript code practice */
 
-document.getElementById ("js-shit").innerHTML="this is working";
+document.getElementById ("js-shit").backgroundColor="slateGrey";
