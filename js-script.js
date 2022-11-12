@@ -1,3 +1,3 @@
 /* my first javascript code practice */
 
-document.getElementById ("jshit").backgroundColor="slateGrey";
+document.getElementById ("jshit").backgroundColor="moccasin";
