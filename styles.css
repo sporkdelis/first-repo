@@ -8,7 +8,9 @@ body {
 
 .headline {  
     background-color: powderblue;  
-    height: 50px;
+    margin:5px;
+    float:left;
+    height: 80px;
     width: 65%;
     color: white;  
     font-family: 'Righteous', sans-serif; 
@@ -16,6 +18,7 @@ body {
     
 .summary {
   background-color: tomato;
+  width: 35%;
   }   
   
 .list {
@@ -24,4 +27,9 @@ body {
   
 .dog-list {
   background-color: CadetBlue;
+  }  
+  
+th.dog-list {
+  color: white;
+  bottom-border: solid;
   }  
