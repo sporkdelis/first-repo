@@ -30,6 +30,10 @@ body {
   background-color: CadetBlue;
   }  
   
+ .doglist table {
+  align:center;
+  }
+   
 .dog-list th {
   color: white;
   padding: 5px;
@@ -38,4 +42,5 @@ body {
   td {
     background-color: beige;
     margin: 5px;
+    padding: 5px;
   }  
