@@ -31,7 +31,7 @@ body {
   }  
   
  .doglist table {
-  align:center;
+  float:center;
   }
    
 .dog-list th {
